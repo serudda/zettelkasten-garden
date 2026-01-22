@@ -1,54 +1,50 @@
-# Zettelkasten Garden
+# Zettelkasten Garden 🪴
 
-A knowledge management system (Second Brain) based on Niklas Luhmann's Zettelkasten methodology, adapted for modern content creators in 2026. The system eliminates writing friction by transforming blog, newsletter, and post creation into an assembly process of ideas rather than writing from scratch.
+A generative knowledge management system (Second Brain) based on Niklas Luhmann's methodology, optimized for **Claude Code** and modern creators. This system eliminates the "blank page syndrome" by transforming writing into a process of **bottom-up assembly**.
 
-## The Goal
+---
 
-Build a generative system—not a passive storage vault. Every piece of information entering the system goes through a **Socratic Interview** that forces connections between new information and existing knowledge or current projects.
+## 🎯 The Goal
+To move from **passive collection** to **active generation**. Every piece of information that enters the "Garden" is interrogated to find its **Core Insight**, ensuring it becomes a reusable "brick" for future content (blogs, newsletters, tweets) rather than a dead note.
 
-## Methodological Pillars
+## 🏛️ Methodological Pillars
 
-The system is built on three note types with clear hierarchies:
+| Note Type | Source | Purpose | Lifespan |
+|-----------|---------|----------|----------|
+| **Fleeting Notes** | Your Brain | Quick captures of "Aha!" moments or raw thoughts. | Short (Process ASAP) |
+| **Literature Notes** | Others | Summaries/quotes from external sources filtered by your understanding. | Medium (Refined into ideas) |
+| **Permanent Notes** | Synthesis | Atomic ideas written in your own words. These are the final "assets". | Long (Infinite) |
 
-| Note Type | Purpose | Lifespan |
-|-----------|---------|----------|
-| **Fleeting Notes** | Quick captures of personal thoughts or "Eureka" moments | Short—must be processed |
-| **Literature Notes** | Summaries and quotes from external sources (books, articles, tweets) | Medium—represents others' knowledge filtered through my understanding |
-| **Permanent Notes** | Atomic ideas written in my own words, synthesizing multiple sources | Long—the "bricks" for building articles |
+## ⚙️ System Workflow: The 3-Step Refinery
 
-## The Problem: "The Note Graveyard"
+The system is powered by specialized Agents and Skills that guide you through a frictionless, step-by-step conversation.
 
-Most note-taking systems become accumulation graveyards. This system is designed to be **generative**, ensuring every input is processed, connected, and eventually transformed into output.
+### 1. `zettelkasten-capture` (The Gatekeeper) 🟢
+**Function:** Fast, low-friction entry point via `inbox.md`.
+- **The Mental Hook:** Instead of complex tags, it asks for a **Core Insight** (Does this explain, challenge, or show something?).
+- **Output:** Standardized English Markdown blocks with unique IDs (`YYYYMMDDHHMM`).
 
-## System Architecture
+### 2. `zettelkasten-distill` (The Refinery) 🟡
+**Function:** Linear, one-by-one processing of the `inbox.md`.
+- **Transformation:** Helps you rewrite raw insights into "Permanent Notes" using your own voice and reflections.
+- **Organization:** Automatically moves literature references to `/references/` and saves your unique thoughts to `/permanent/`.
 
-The system operates through Agents and Skills defined in `.claude/skills/`.
+### 3. `zettelkasten-assembler` (The Architect) 🔵
+**Function:** Bottom-up content creation designed for non-writers.
+- **Narrative Arcs:** Offers a "Menu of Inspiration" (Contrast, Myth-Buster, Bridge, Deep Dive) to structure your post.
+- **The Glue:** Proposes logical transitions between your existing notes to create a cohesive draft without writing from scratch.
 
-### Skills Roadmap
+---
 
-| Skill | Status | Description |
-|-------|--------|-------------|
-| `zettelkasten-capture` | Planned | Step-by-step conversational flow that receives fragments, classifies them, extracts metadata, and saves via append to `inbox.md` |
-| `zettelkasten-distill` | Planned | Process to review `inbox.md`, reflect on notes, and transform them into independent Permanent Note `.md` files |
-| `content-assembler` | Planned | Search and connection engine to "fish" related notes for assembling content drafts |
+## 📂 File Structure
 
-## Implementation Requirements
-
-### Persistence
-- All data saved in local Markdown files with YAML Frontmatter
-- Compatible with graph tools (Obsidian, Heptabase)
-
-### Zero Friction
-- Single question at a time interactions
-- Designed for capture on-the-go
-
-### File Structure
-
-```
+```text
 zettelkasten-garden/
 ├── .claude/
-│   └── skills/          # Agent rules and skill definitions
-├── inbox.md             # Central entry point for all captures
-├── zettelkasten/        # Final directory for permanent and literature notes
+│   └── skills/          # Logic for Capture, Distill, and Assembler agents
+├── drafts/              # Final output for blogs, newsletters, and threads
+├── zettelkasten/
+│   ├── permanent/       # Your unique thoughts (The Primary Brain)
+│   └── references/      # Bibliographic data and external sources
+├── inbox.md             # Temporary landing zone for new ideas
 └── README.md
-```
