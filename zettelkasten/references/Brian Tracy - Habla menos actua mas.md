@@ -4,4 +4,6 @@
 - **Language:** Spanish
 
 ## Related Permanent Notes
-- [[202601221030]] - The Seductive Trap of Bad Habits
+- [[202601221030]] - La Seductiva Trampa de los Malos Hábitos
+- [[202601221045]] - Rendir al máximo no es una casualidad, es una decisión
+- [[202601221052]] - La disciplina comienza con pequeños actos
