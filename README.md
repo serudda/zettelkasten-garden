@@ -1,6 +1,6 @@
 # Zettelkasten Garden 🪴
 
-A generative knowledge management system (Second Brain) based on Niklas Luhmann's methodology, optimized for **Claude Code** and modern creators. This system eliminates the "blank page syndrome" by transforming writing into a process of **bottom-up assembly**.
+A generative knowledge management system (Second Brain) based on Niklas Luhmann's methodology. This system eliminates the "blank page syndrome" by transforming writing into a process of **bottom-up assembly**.
 
 ---
 
