@@ -24,22 +24,26 @@ Ask: "**Who is the author and what is the source?** (Book, URL, Tweet, or 'unkno
 **Action:** Store these for the `Source:` field in the metadata.
 
 ### Step 4: Extract Key Quote (Optional for Literature)
-Ask: "**Is there any direct quote you want to highlight or would you rather use your own summary?**"
+Ask: "**Do you want to keep the exact quote you shared, or use your own summary?**"
 
-### Step 5: Establish Connection
+### Step 5: The Mental Hook (Core Insight)
+Ask: "**What is the 'so what' or main insight here? (e.g., 'It explains X', 'It challenges Y', or 'It shows how Z works')**"
+**Goal:** Capture the functional value of the note so it can be retrieved by "intent" rather than just keywords.
+
+### Step 6: Establish Connection
 Ask: "**What idea or concept already in your system does this connect to?**"
 **Goal:** Force associative thinking from the moment of capture.
 
-### Step 6: Define Utility
+### Step 7: Define Utility
 Ask: "**In what project, blog post, or newsletter do you envision using this idea?**"
 **Goal:** Prevent the "graveyard of notes" by assigning an immediate purpose.
 
-### Step 7: Suggest Tags
+### Step 8: Suggest Tags
 1. Analyze content and the user's previous responses.
 2. Suggest 3-4 tags (e.g., #productivity, #react, #writing).
 3. Ask: "**Do these tags work for you or would you like to add others?**"
 
-### Step 8: Finalize and Append
+### Step 9: Finalize and Append
 **Action:** 1. Generate unique ID (format: `YYYYMMDDHHMM`).
 2. Construct the Markdown block with YAML Frontmatter.
 3. Append the block to `inbox.md`.
@@ -58,6 +62,6 @@ Ask: "**In what project, blog post, or newsletter do you envision using this ide
 [Summary or Quote]
 
 ### Capture Context
-- **Connection:** [Answer Step 5]
-- **Potential Use:** [Answer Step 6]
----
+- **Core Insight:** [Answer Step 5]
+- **Connection:** [Answer Step 6]
+- **Potential Use:** [Answer Step 7]
