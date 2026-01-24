@@ -21,6 +21,7 @@ Central registry of all tags used in the Zettelkasten system.
 ## Identity & Philosophy
 
 - #AI-era
+- #authenticity 
 - #human-identity
 - #personal-branding
 - #philosophy

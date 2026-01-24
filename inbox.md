@@ -4,45 +4,7 @@ Raw captures waiting to be processed into permanent notes.
 
 ---
 
-## Reclaiming Humanity in the Age of AI
-
-- **ID:** 202601231045
-- **Type:** Literature
-- **Source:** Gemini - Conversation
-- **Tags:** #inbox #personal-branding #AI-era #human-identity #philosophy
-
-### Content
-
-"En un mundo donde cualquiera puede generar un producto con un prompt, el valor real estará en quien tiene una voz, una historia y un 'core' intelectual sólido. Tú no estás solo creando contenido; estás reclamando tu humanidad."
-
-### Capture Context
-
-- **Core Insight:** Irónicamente, este avance tecnológico acelerado llevará a muchos a buscar sus raíces humanas como escape de la sobresaturación de tecnología, guías de productos, publicidad y robots. Buscaremos nuestras raíces como una forma de huir de esta nueva realidad.
-- **Connection:** Personal branding
-- **Posible uso:** Contenido sobre crecimiento personal, marca personal o algo más filosófico como "cómo volver a ser humano" en una era tecnológica.
-
----
-
-## The Power of Emotional Consent
-
-- **ID:** 202601241530
-- **Type:** Literature
-- **Source:** Eleanor Roosevelt (cited in Brian Tracy - Habla menos, actúa más)
-- **Tags:** #inbox #self-improvement #mindset #emotional-intelligence
-
-### Content
-
-"Nadie puede hacerte sentir inferior sin tu consentimiento." — Eleanor Roosevelt
-
-### Capture Context
-
-- **Core Insight:** Cuando culpas a otra persona por algo que hizo o no hizo, le permites controlar tus emociones. Al señalar o responsabilizar a otros por lo que te sucede, indirectamente les das libertad para influir en tus pensamientos, en tus acciones y, por ende, para drenar lo más valioso que tienes: tu energía.
-- **Connection:** None yet
-- **Posible uso:** Publicación o boletín sobre crecimiento personal
-
----
-
-## Success on Your Own Terms
+## El Exito en tus propios terminos
 
 - **ID:** 202601240807
 - **Type:** Literature
