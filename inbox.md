@@ -20,7 +20,39 @@ Raw captures waiting to be processed into permanent notes.
 ### Capture Context
 
 - **Core Insight:** Fuimos desde jóvenes impulsados, por crianza, por convivencia, por leyes naturales de la vida, a siempre depender de alguien. Muchos no logramos cortar esa dependencia porque nos aferramos muchísimo a nuestra familia, a nuestros padres, quienes eran las personas que nos guiaban en el camino. Con el paso de los años uno mantiene esa dependencia y siempre necesita una dependencia con alguien—sea la pareja, sea un jefe, sea un trabajo—pero siempre hay un hilo ahí invisible que cuesta cortar.
-- **Connection:** Autonomía personal
-- **Potential Use:** Crecimiento personal
+
+---
+
+## El poder del silencio
+
+- **ID:** 202601241700
+- **Type:** Literature
+- **Source:** abuelocoquiok - Instagram (https://www.instagram.com/p/DTbSG1Mjuu_/)
+- **Tags:** #inbox #mindset #self-improvement #philosophy
+
+### Content
+
+"Mientras menos hables, más valor tienen tus palabras."
+
+### Capture Context
+
+- **Core Insight:** Explica que tiene más poder el silencio que estar hablando por hablar.
+
+---
+
+## Nadie piensa tanto en ti
+
+- **ID:** 202601241705
+- **Type:** Literature
+- **Source:** abuelocoquiok - Instagram (https://www.instagram.com/p/DTbSG1Mjuu_/)
+- **Tags:** #inbox #emotional-intelligence #mindset #human-behavior
+
+### Content
+
+"Nunca te tomes nada personal. Nadie piensa tanto de vos como vos mismo."
+
+### Capture Context
+
+- **Core Insight:** Caemos en el sobre-pensar y nos atormentamos la cabeza creyendo que los demás piensan o nos tienen en sus pensamientos día y noche, y es mentira. Nadie piensa tanto en mí como yo creería que lo hicieran.
 
 ---

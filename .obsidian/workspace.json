@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/permanent/202601241835.md",
+                "file": "zettelkasten/permanent/202601241715.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202601241835"
+              "title": "202601241715"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/permanent/202601241835.md",
+                "file": "zettelkasten/permanent/202601241715.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 202601241835"
+              "title": "Backlinks for 202601241715"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/permanent/202601241835.md",
+                "file": "zettelkasten/permanent/202601241715.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 202601241835"
+              "title": "Outgoing links from 202601241715"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/permanent/202601241835.md",
+                "file": "zettelkasten/permanent/202601241715.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202601241835"
+              "title": "Outline of 202601241715"
             }
           }
         ]
@@ -185,21 +185,21 @@
   },
   "active": "c7d0552191743ec3",
   "lastOpenFiles": [
-    "zettelkasten/permanent/202601241715.md",
-    "zettelkasten/permanent/202601241530.md",
-    "zettelkasten/permanent/202601240807.md",
-    "zettelkasten/references/Horacio - Odas.md",
     "zettelkasten/permanent/202601241835.md",
+    "zettelkasten/permanent/202601221030.md",
+    "zettelkasten/permanent/202601221045.md",
+    "zettelkasten/permanent/202601221052.md",
+    "zettelkasten/permanent/202601231045.md",
+    "zettelkasten/permanent/202601240807.md",
+    "zettelkasten/permanent/202601241530.md",
+    "zettelkasten/permanent/202601241715.md",
+    "zettelkasten/references/Horacio - Odas.md",
     "inbox.md",
     "zettelkasten/references/Mario Mendoza - Estar Vivos No Es Normal.md",
     "CLAUDE.md",
     "zettelkasten/references/Gemini - Conversation.md",
     "zettelkasten/references/Brian Tracy - Habla menos actua mas.md",
-    "zettelkasten/permanent/202601221030.md",
     "tags.md",
-    "zettelkasten/permanent/202601231045.md",
-    "zettelkasten/permanent/202601221052.md",
-    "zettelkasten/permanent/202601221045.md",
     "Gemini - Conversation.md"
   ]
 }
