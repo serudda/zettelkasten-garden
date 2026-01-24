@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "inbox"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox.md",
+                "file": "CLAUDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for inbox"
+              "title": "Backlinks for CLAUDE"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox.md",
+                "file": "CLAUDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from inbox"
+              "title": "Outgoing links from CLAUDE"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox.md",
+                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of inbox"
+              "title": "Outline of CLAUDE"
             }
           }
         ]
@@ -185,20 +185,20 @@
   },
   "active": "c7d0552191743ec3",
   "lastOpenFiles": [
+    "inbox.md",
+    "zettelkasten/permanent/202601231045.md",
+    "zettelkasten/references/Gemini - Conversation.md",
+    "zettelkasten/references/Brian Tracy - Habla menos actua mas.md",
     "zettelkasten/permanent/202601241715.md",
     "zettelkasten/permanent/202601241835.md",
     "zettelkasten/permanent/202601221030.md",
     "zettelkasten/permanent/202601221045.md",
     "zettelkasten/permanent/202601221052.md",
-    "zettelkasten/permanent/202601231045.md",
     "zettelkasten/permanent/202601240807.md",
     "zettelkasten/permanent/202601241530.md",
     "zettelkasten/references/Horacio - Odas.md",
-    "inbox.md",
     "zettelkasten/references/Mario Mendoza - Estar Vivos No Es Normal.md",
     "CLAUDE.md",
-    "zettelkasten/references/Gemini - Conversation.md",
-    "zettelkasten/references/Brian Tracy - Habla menos actua mas.md",
     "tags.md",
     "Gemini - Conversation.md"
   ]

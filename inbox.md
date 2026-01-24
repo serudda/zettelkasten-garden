@@ -4,8 +4,6 @@ Raw captures waiting to be processed into permanent notes.
 
 ---
 
-## Recuperando la Humanidad en la Era de la IA
-
 ## El hábito de la dependencia
 
 - **ID:** 202601241630

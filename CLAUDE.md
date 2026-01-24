@@ -18,22 +18,26 @@ zettelkasten-garden/
 ## Available Skills
 
 ### `/zettelkasten-capture`
-Atomic capture of ideas and external sources. Use this skill when the user wants to:
-- Save a quote, idea, or thought
-- Process raw information into the inbox
-- Capture something for later distillation
 
-The skill guides through a step-by-step conversation (one question at a time) and appends the result to `inbox.md`.
+Fast, low-friction capture of ideas and external sources. Guides through a step-by-step conversation and appends to `inbox.md`.
+
+### `/zettelkasten-distill`
+
+Processes entries from `inbox.md` one by one, transforming them into Permanent Notes in `/zettelkasten/permanent/`.
+
+### `/zettelkasten-assembler`
+
+Bottom-up content creation. Researches and assembles permanent notes into structured drafts (blogs, newsletters, threads).
 
 ## Workflow
 
-1. **Capture** → Use `/zettelkasten-capture` to add raw ideas to `inbox.md`
-2. **Distill** → (Coming soon) Process inbox into permanent notes
-3. **Assemble** → (Coming soon) Connect notes to create content
+1. **Capture** → `/zettelkasten-capture` → raw ideas to `inbox.md`
+2. **Distill** → `/zettelkasten-distill` → inbox to permanent notes
+3. **Assemble** → `/zettelkasten-assembler` → notes to content
 
 ## Important Rules
 
 - Always ask questions in **Spanish** (user's native language)
 - Always document/write notes in **English**
 - One question at a time to reduce friction
-- Every note must have a connection and potential use defined
+- Tags: always reference `tags.md` for existing tags; add new ones there if needed
