@@ -8,6 +8,7 @@ This is a personal knowledge management system (Second Brain) based on Niklas Lu
 zettelkasten-garden/
 ├── .claude/skills/      # Skill definitions
 ├── inbox.md             # Central entry point for all captures
+├── tags.md              # Central registry of all tags
 ├── zettelkasten/        # Permanent and literature notes
 |   └── permanent/       # Processed own ideas
 |   └── references/      # Bibliographic cards
