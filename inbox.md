@@ -4,7 +4,7 @@ Raw captures waiting to be processed into permanent notes.
 
 ---
 
-## Reclaiming Humanity in the Age of AI
+## Recuperando la Humanidad en la Era de la IA
 
 ## El hábito de la dependencia
 
