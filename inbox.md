@@ -4,24 +4,7 @@ Raw captures waiting to be processed into permanent notes.
 
 ---
 
-## El Exito en tus propios terminos
-
-- **ID:** 202601240807
-- **Type:** Literature
-- **Source:** Brian Tracy - Habla menos, actúa más
-- **Tags:** #inbox #mindset #self-improvement
-
-### Content
-
-"Ser el mejor es una falsa meta. Tienes que medir el éxito en tus propios términos."
-
-### Capture Context
-
-- **Core Insight:** Medir el éxito con la misma vara que lo medirían muchos o con la genérica vara de "es que tengo que ser el mejor en lo que hago" hace que sea una medida sesgada. Cada quien mide el éxito a su nivel, acorde a su contexto. Lo que te hace sentir exitoso a ti puede que no me haga sentir exitoso a mí.
-- **Connection:** Personal success, Personal growth
-- **Potential Use:** Newsletter personal
-
----
+## Reclaiming Humanity in the Age of AI
 
 ## El hábito de la dependencia
 

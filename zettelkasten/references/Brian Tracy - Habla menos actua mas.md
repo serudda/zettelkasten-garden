@@ -8,3 +8,4 @@
 - [[202601221045]] - Rendir al máximo no es una casualidad, es una decisión
 - [[202601221052]] - La disciplina comienza con pequeños actos
 - [[202601241530]] - El Poder del Consentimiento Emocional
+- [[202601240807]] - El Éxito en tus propios términos
