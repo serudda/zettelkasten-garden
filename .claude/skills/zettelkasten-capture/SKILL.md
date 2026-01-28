@@ -18,8 +18,14 @@ The user shares a quote, an idea, or a rough thought.
 
 ### Step 2: Classify the Note
 
-Ask: "**Is this a Literature Note (you saw the idea somewhere) or a Fleeting Note (it's your own idea)?**"
-**Logic:** If 'Literature', proceed to Step 3. If 'Fleeting', skip to Step 5.
+Ask: "**What type of note is this?**"
+
+```
+A) Literature Note (idea from an external source)
+B) Fleeting Note (your own idea)
+```
+
+**Logic:** If 'A' → proceed to Step 3. If 'B' → skip to Step 5.
 
 ### Step 3: Identify Author and Source
 
@@ -28,7 +34,8 @@ Ask: "**Who is the author and what is the source?** (Book, URL, Tweet, or 'unkno
 
 ### Step 4: Extract Key Quote (Optional for Literature)
 
-Ask: "**Do you want to keep the exact quote you shared, or use your own summary?**"
+Ask: "**Keep the exact quote? (Yes = keep it verbatim, No = write your own summary)**"
+**Logic:** If 'Yes' → keep the original quote verbatim. If 'No' → ask the user for their own summary.
 
 ### Step 5: The Mental Hook (Core Insight)
 
