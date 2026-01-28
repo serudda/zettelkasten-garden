@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7ca656a31657a456",
+        "id": "0bc24bc6698b218f",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d0552191743ec3",
+            "id": "736753a9160749b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "New tab"
             }
           }
         ]
@@ -183,23 +179,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "c7d0552191743ec3",
+  "active": "736753a9160749b4",
   "lastOpenFiles": [
-    "inbox.md",
-    "zettelkasten/permanent/202601231045.md",
-    "zettelkasten/references/Gemini - Conversation.md",
-    "zettelkasten/references/Brian Tracy - Habla menos actua mas.md",
+    "zettelkasten/permanent/202601261815.md",
+    "zettelkasten/references/@serudda_es - Twitter.md",
+    "zettelkasten/permanent/202601241530.md",
+    "zettelkasten/permanent/202601241630.md",
+    "zettelkasten/permanent/202601241700.md",
+    "zettelkasten/permanent/202601241705.md",
     "zettelkasten/permanent/202601241715.md",
     "zettelkasten/permanent/202601241835.md",
-    "zettelkasten/permanent/202601221030.md",
-    "zettelkasten/permanent/202601221045.md",
-    "zettelkasten/permanent/202601221052.md",
-    "zettelkasten/permanent/202601240807.md",
-    "zettelkasten/permanent/202601241530.md",
-    "zettelkasten/references/Horacio - Odas.md",
-    "zettelkasten/references/Mario Mendoza - Estar Vivos No Es Normal.md",
-    "CLAUDE.md",
+    "zettelkasten/permanent/202601261800.md",
+    "inbox.md",
+    "zettelkasten/references/abuelocoquiok - Instagram.md",
+    "README.md",
     "tags.md",
+    "CLAUDE.md",
+    "zettelkasten/references/Mario Mendoza - Estar Vivos No Es Normal.md",
+    "zettelkasten/references/Horacio - Odas.md",
+    "zettelkasten/references/Gemini - Conversation.md",
+    "zettelkasten/references/Brian Tracy - Habla menos actua mas.md",
+    "zettelkasten/permanent/202601240807.md",
+    "zettelkasten/permanent/202601231045.md",
+    "zettelkasten/permanent/202601221052.md",
+    "zettelkasten/permanent/202601221045.md",
+    "zettelkasten/permanent/202601221030.md",
+    "serudda_es - Tweet.md",
     "Gemini - Conversation.md"
   ]
 }

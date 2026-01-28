@@ -27,17 +27,26 @@ A Permanent Note must be written in the user's own words.
 **Goal:** Transform "someone else's idea" into "your own thought".
 **Language Rule:** Preserve the user's elaboration in the original language they used. Do NOT translate it.
 
-### Step 3: Polish Draft
+### Step 3: Validate & Polish Draft
 
-**Action:** Clean up the user's elaboration:
+**Validation Checkpoint:** Before polishing, critically review the user's elaboration:
+
+- Does it contain factual errors or misused terms?
+- Is the logic sound, or are there flawed assumptions?
+- Could the idea be misunderstood by their "future self"?
+
+**If issues are found:** Point them out respectfully. Explain the correction and ask if the user wants to revise their elaboration.
+
+**Action:** Once validated, clean up the user's elaboration:
 
 - Fix grammar and spelling errors
 - Remove redundancies
 - Add proper punctuation
 - Improve coherence between sentences
-  **Rule:** Preserve the user's tone, voice, and original language. Do NOT rephrase or transform the idea.
-  **Ask:** "**Here's a polished version of your idea. Does it still capture what you meant?**"
-  [Show polished version]
+
+**Rule:** Preserve the user's tone, voice, and original language. Do NOT rephrase or transform the idea.
+**Ask:** "**Here's a polished version of your idea. Does it still capture what you meant?**"
+[Show polished version]
 
 ### Step 4: Conceptual Titling
 
