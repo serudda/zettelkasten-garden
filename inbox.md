@@ -235,3 +235,54 @@ That is where her power creates something lasting.
 - **Core Insight:** Muestra cómo darle valor a tu esposa no exigiéndola buscar un trabajo 9-5, sabiendo que la mujer es muy poderosa. Su sabiduría y su perspectiva dan valor a cualquier aspecto de su vida. Impulsarla a que busque un trabajo es limitar sus capacidades y entregar su vida y su seguridad a alguien más.
 
 ---
+
+## Nada es demasiado difícil si se divide en pequeñas tareas
+
+- **ID:** 202601291030
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #self-improvement #mindset #productivity-system
+
+### Content
+
+"Nada es demasiado difícil si se divide en pequeñas tareas."
+
+### Capture Context
+
+- **Core Insight:** Lo importante es desglosar una tarea gigantesca en pequeñas subtareas para que, al final del día, nos demos cuenta de que logramos nuestro objetivo, que en su momento pensábamos que era imposible de alcanzar.
+
+---
+
+## El ímpetu se construye trabajando cada día en tu objetivo
+
+- **ID:** 202601291045
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #mindset #self-improvement #productivity-system
+
+### Content
+
+"Al trabajar cada día en tu objetivo, desarrollarás ímpetu, lo que te hará moverte más rápido y más fácil. Como resultado, será natural ponerte en marcha y seguir adelante cada día."
+
+### Capture Context
+
+- **Core Insight:** Al principio todo es nublado cuando empiezas un nuevo proyecto o tienes un objetivo en mente. Titubeas, te llenas de miedos y dudas porque ves que la tarea o el objetivo final es una monstruosidad. Pero mientras vas trabajando en subtareas relacionadas con la más grande, te vas dando cuenta de que vas dominando cada vez más el campo. El monstruo que se te hacía enorme ya no es tan enorme. Empiezas a tener una chispa extra de motivación, de energía. Algo mágico que el primer día no lo veías, pero hoy lo sientes.
+
+---
+
+## Obsesiónate con tu meta
+
+- **ID:** 202601291100
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #mindset #self-improvement #productivity-system
+
+### Content
+
+"De ahora en adelante, trabaja en esta meta cada día. Cuando te levantes por la mañana, piensa en tu meta. Conforme transcurre el día, piensa en tu meta. Por la noche, revisa tu progreso hacia lograrla."
+
+### Capture Context
+
+- **Core Insight:** Obsesiónate con tu idea, obsesiónate con tu meta. No pienses en nada más que en tu meta diaria. Parece exagerado, parece radical, pero es así como funciona. Es así como las grandes empresas, los grandes productos, los grandes cambios en la humanidad han surgido — por personas que se obsesionan con la idea. Se levantan pensando en la idea, comen pensando en la idea, se bañan pensando en la idea, duermen pensando en la idea. Y eso lo replican durante tanto tiempo que se les vuelve una obsesión. Y esa obsesión es la que los lleva a volverse maestros de su propia meta.
+
+---

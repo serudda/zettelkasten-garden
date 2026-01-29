@@ -16,6 +16,7 @@ Central registry of all tags used in the Zettelkasten system.
 - #decision-making
 - #habits
 - #performance
+- #productivity-system
 - #self-improvement
 
 ## Identity & Philosophy
