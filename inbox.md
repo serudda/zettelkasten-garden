@@ -286,3 +286,206 @@ That is where her power creates something lasting.
 - **Core Insight:** Obsesiónate con tu idea, obsesiónate con tu meta. No pienses en nada más que en tu meta diaria. Parece exagerado, parece radical, pero es así como funciona. Es así como las grandes empresas, los grandes productos, los grandes cambios en la humanidad han surgido — por personas que se obsesionan con la idea. Se levantan pensando en la idea, comen pensando en la idea, se bañan pensando en la idea, duermen pensando en la idea. Y eso lo replican durante tanto tiempo que se les vuelve una obsesión. Y esa obsesión es la que los lleva a volverse maestros de su propia meta.
 
 ---
+
+## La Reunión de Estimaciones
+
+- **ID:** 202601291444
+- **Type:** Fleeting
+- **Source:** Gemini conversation
+- **Tags:** #inbox #AI-era #employment #human-identity #authenticity
+
+### Content
+
+Te comparto una anécdota que me pasó hace unos días.
+
+Estábamos en una reunión para definir el Roadmap de una nueva versión del producto. Cosas rutinarias que he hecho durante años.
+
+Uno de los fundadores era el "verdugo" en esa reunión. El fundador miró mi timeline y se rió sarcásticamente.
+
+"¿Un día entero para esta subtarea? Podrías hacerlo en 15 minutos con Cursor, o con Claude. ¿Por qué estás inflando la estimación?"
+
+Me quedé ahí, boquiabierto.
+
+Una década de experiencia reducida a un momento incómodo. Mi criterio profesional (el tiempo colchón para edge cases, para testing, para lo inesperado) etiquetado como "Ineficiencia".
+
+Ahí fue cuando vi el panorama con claridad.
+
+No quieren que la IA te ayude a trabajar mejor.
+
+Quieren que la IA les ayude a pagarte menos. A presionarte más. A cuestionar cada hora. A convertir tu sabiduría en desperdicio.
+
+A explotar el miedo e incertidumbre que ya tienes que comerte día tras día, cada vez que sale una nueva versión de algún modelo... cruzando los dedos para que aún haya espacio para ti dentro de esta industria.
+
+Durante semanas después, me cuestioné a mí mismo. Tal vez sí soy lento. Tal vez sí estoy obsoleto. El miedo podría estar bien justificado.
+
+Lo más gracioso llegó después.
+
+El mismo fundador me llama a las 2 a.m. cuando un "arreglo rápido hecho 100% con IA, y sin ningún tiempo otorgado para hacer pruebas exhaustivas" rompió producción de formas que ningún agente podía diagnosticar.
+
+El silencio en esa llamada me lo dijo todo.
+
+Tu experiencia no es relleno. Tu criterio no es ineficiencia. Tu valor no se mide por qué tan rápido puedes escribir código.
+
+No dejes que te hagan olvidar lo que realmente vales.
+
+### Capture Context
+
+- **Core Insight:** La IA está siendo weaponizada como herramienta de presión laboral, no de productividad.
+  La narrativa dominante dice "la IA te hace más eficiente". Pero el texto revela el subtexto real en muchas empresas: "la IA nos da excusa para devaluar tu criterio, cuestionar tu tiempo, y pagar menos por más".
+  La ironía del cierre (la llamada a las 2 a.m.) no es solo venganza poética. Es la prueba de que el "tiempo colchón" que el fundador llamó ineficiencia era, en realidad, sabiduría acumulada disfrazada de horas.
+  El mensaje más profundo: el verdadero valor de un profesional experimentado no está en la velocidad de output, sino en todo lo que evita que salga mal. Y eso es precisamente lo que la métrica de "hazlo en 15 minutos con IA" es incapaz de medir.
+
+---
+
+## Aquel que planea cada mañana las transiciones del día
+
+- **ID:** 202601301115
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #productivity-system #habits #decision-making
+
+### Content
+
+"Aquel que planea cada mañana las transiciones del día y sigue su plan, lleva consigo un hilo que lo guiará a través del laberinto de una vida terriblemente ocupada."
+
+### Capture Context
+
+- **Core Insight:** Relata la importancia de tener siempre un plan para transicionar durante las tareas del día.
+
+---
+
+## Todo el éxito viene de la realización de tareas
+
+- **ID:** 202601301120
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #productivity-system #self-improvement #habits #performance
+
+### Content
+
+"Todo el éxito viene de la realización de tareas, de comenzar un trabajo y completarlo tan pronto como sea posible."
+
+### Capture Context
+
+- **Core Insight:** Una frase: "el sistema mínimo viable para tener éxito en algo que estés haciendo", que es simplemente realizar pequeñas tareas relacionadas a esa tarea o a ese objetivo principal, comenzar a actuar y completarlo lo más rápido posible.
+
+---
+
+## Las personas más productivas procrastinan en lo de menor valor
+
+- **ID:** 202601301125
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #productivity-system #performance #decision-making #mindset
+
+### Content
+
+"Las personas más productivas procrastinan en las cosas de menor valor, en 80% de las tareas que representan solo 20% o menos de los resultados."
+
+### Capture Context
+
+- **Core Insight:** Que todo el mundo procrastina, sin importar qué tan productivo sea. Simplemente que las personas más productivas procrastinan en las cosas de menor valor.
+
+---
+
+## ¿Qué te detiene? Los 8 factores de la procrastinación
+
+- **ID:** 202601301130
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #productivity-system #self-improvement #mindset #delayed-gratification #decision-making #habits
+
+### Content
+
+¿Qué te detiene?
+
+Para superar la procrastinación, identifica los factores que te hacen procrastinar hoy y pensar en cuántos de ellos aplican para ti.
+
+1. Falta de claridad. Si no tienes claridad o no estás seguro sobre la cosa más importante que hacer, terminarás haciendo cosas de bajo valor o sin valor.
+
+95% del éxito en la vida viene de tener total claridad de tus metas más importantes y las cosas más importantes que puedes hacer cada minuto para lograrlas.
+
+2. Falta de ambición. ¿Te enfermas de excusitis? Y continuamente te dices a ti mismo y a otros que pronto empezarás a trabajar en esa gran meta.
+
+3. Falta de prioridades. ¿Por qué no has planeado ni organizado tu tarea por consecuencia y prioridad? A menudo estás inseguro de que has de que hacer primero? Como resultado no haces nada.
+
+4. Sobrecarga. A menudo tienes demasiadas actividades o tareas a realizar para el limitado tiempo disponible. Como resultado, acabas por tirar la toalla y decirte que lo harás mañana.
+
+5. Falta de preparación. No tienes a tu alcance todo lo que necesitas para iniciar y completar la tarea. A menudo, el acto de reunir todos los materiales que se requieren en realidad ayuda a volcarte a la tarea.
+
+6. Falta de energía. Necesitas de 8 a 9 horas de sueño cada noche, combinadas con alimentos sanos y nutritivos, para estar totalmente enérgico para realizar tu mejor trabajo. Como dijo Vince Lombardi: "La fatiga hace cobardes a todos". Cuando estás físicamente cansado o mentalmente agotado, careces de la energía necesaria para iniciar y completar una actividad.
+
+7. Falta de conocimiento. Si no has aprendido todo lo que necesitas saber sobre tu trabajo y no sabes qué hacer o cómo hacerlo, es común que lo procrastines hasta que tengas toda la información.
+
+8. Falta de autodisciplina. Esta es probablemente la peor debilidad de todas. Careces de la fuerza de voluntad para ponerte en marcha y continuar moviéndote.
+
+### Capture Context
+
+- **Core Insight:** Estos 8 factores no son interruptores de encendido/apagado, sino diales que fluctúan día a día. No es un checklist de "lo tengo o no lo tengo" — generalmente tenemos un poco de cada uno. A veces falta claridad porque no hay visión clara, a veces falta energía por una mala noche, a veces falta preparación porque es un tema nuevo. Reconocer que todos conviven en distintas intensidades es más honesto y útil que pretender que solo uno es el problema.
+
+---
+
+## La fatiga hace cobardes a todos
+
+- **ID:** 202601301145
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #performance #mindset #self-improvement
+
+### Content
+
+"La fatiga hace cobardes a todos." — Vince Lombardi
+
+### Capture Context
+
+- **Core Insight:** La fatiga tiene un doble efecto destructivo: no solo baja tu rendimiento, sino que te convierte en cobarde — te hace evitar las decisiones difíciles, esquivar la confrontación y elegir el camino fácil. Sin energía, puedes ser la persona más valiente y disciplinada del mundo, pero tu performance será pobre y, peor aún, dejarás de intentar lo que deberías enfrentar.
+
+---
+
+## 8 técnicas para superar la procrastinación y ser orientado a la acción
+
+- **ID:** 202601301200
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #productivity-system #habits #self-improvement
+
+### Content
+
+Sé una persona orientada a la acción. Haz varios trucos que puedes aplicar para superar la procrastinación y volverte a tus tareas más importantes.
+
+1. Primero, haz una lista de tareas. Has escuchado que la falta de planificación es planear para el fracaso. Haz una lista ordenada de cada tarea en un trabajo grande, con una secuencia de la primera hasta la última tarea. El hecho mismo de tener una guía que seguir reduce drásticamente la procrastinación.
+2. Divide la tarea como un salami. Nunca pensarías en comerte toda una pieza de salami al mismo tiempo; en su lugar, lo comes una rebanada a la vez. Haz lo mismo con las grandes tareas: corta una pequeña rebanada de la tarea y completa esa actividad. No tienes que hacer todo solo; haz una pequeña cosa, eso será suficiente para iniciar la tarea.
+3. Técnica del queso suizo: perfora un agujero como los agujeros del queso suizo en tu tarea y decide trabajar por 5 o 10 minutos sin parar. Cuando mires tu tarea, elige una pequeña parte y di enfáticamente "haré esto ahorita".
+4. Utiliza la regla 80/20: 20% de las cosas que haces equivalen al 80% de los resultados. Identifica 20% de las actividades que equivaldrían a 80% de tu éxito en este proyecto. A veces, el primer 20% de las actividades que haces (como planear y organizar) equivalen al 80% de la tarea entera.
+5. Recompensa: te establece un calendario de recompensas para iniciar trabajar y completar un trabajo específico.
+   - Recompensa: una taza de café por hacer una cosa en tu lista.
+   - Recompensa: un descanso de estiramiento por hacer 10 llamadas a clientes.
+   - Recompensa: una cena por alcanzar una meta financiera o numérica.
+6. Promete a otros que vas a realizar una actividad en particular en un tiempo determinado, cuando sabes que otros te están observando y te has comprometido a realizar un trabajo en un tiempo específico. Estarás más motivado para comenzar, continuar y completar el trabajo.
+7. Comienza de inmediato. Trabaja una tarea importante primero que nada, todas las mañanas, antes de revisar tu correo celular o mensaje.
+8. Enfócate en cada tarea. Elige tu tarea más importante y comienza a primera hora y luego trabaja hasta que la tarea esté 100% completada. Esto se llama "single hand in" o gestión simple, una de las técnicas de gestión más poderosas que se haya desarrollado jamás.
+
+### Capture Context
+
+- **Core Insight:** La procrastinación no depende del tamaño de la tarea, sino de la falta de un sistema para abordarla. Puedes tener una tarea pequeñita y procrastinarla igual. Estas 8 técnicas son herramientas para construir ese sistema: desde hacer listas y dividir tareas (salami, queso suizo), hasta priorizar con la regla 80/20, recompensarte para tomar un aire emocional después de una jornada, usar la accountability con otros (como prometer a tu pareja), y la disciplina de comenzar de inmediato enfocándote en una sola tarea a la vez.
+
+---
+
+## La reputación de velocidad y confianza
+
+- **ID:** 202601301215
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #performance #personal-branding #human-behavior
+
+### Content
+
+La mejor reputación que puedes crear es la de velocidad y confianza. Cuando las personas tienen plena confianza en que te pueden dar una tarea y olvidarse por completo de ella por tu reputación de completar tareas, te convertirás en un imán para tareas más grandes, importantes y mejores.
+
+Cuando las personas saben que, sin importancia, importar la meta la iniciarás y continuarás hasta completarla, tu futuro estará garantizado.
+
+### Capture Context
+
+- **Core Insight:** El compromiso constante de iniciar y terminar tareas con velocidad y calidad construye una reputación que atrae oportunidades más grandes. Pero es un arma de doble filo: el ser humano se malacostumbra, y esa misma reputación de confiabilidad puede convertirte en el burro de carga — todos te tiran trabajo porque saben que lo vas a hacer rápido y lo vas a entregar. Esta reputación debe combinarse con saber elegir qué tareas aceptar (regla 80/20), no simplemente decir sí a todo.
+
+---
